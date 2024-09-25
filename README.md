@@ -1,3 +1,3 @@
 # simple-maintenance-page
-EN: Simple Maintenance Page.
-ID: Halaman Pemeliharaan Sederhana
+English: Simple Maintenance Page.
+Indonesia: Halaman Pemeliharaan Sederhana
