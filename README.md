@@ -1,4 +1,2 @@
 # simple-maintenance-page
-English: Simple Maintenance Page
-
-Indonesia: Halaman Pemeliharaan Sederhana
+English: Simple maintenance page
