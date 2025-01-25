@@ -1,2 +1,2 @@
 # simple-maintenance-page
-English: Simple maintenance page
+Simple maintenance page
